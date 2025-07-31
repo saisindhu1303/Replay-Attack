@@ -1,0 +1,191 @@
+{
+  "results": [
+    {
+      "fe_index": "LBP",
+      "status": "denied",
+      "matched_user": "unknown",
+      "similarity": 0.0
+    },
+    {
+      "fe_index": 0,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.9979
+    },
+    {
+      "fe_index": 1,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9856
+    },
+    {
+      "fe_index": 2,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9946
+    },
+    {
+      "fe_index": 3,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.9977
+    },
+    {
+      "fe_index": 4,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9981
+    },
+    {
+      "fe_index": 5,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.983
+    },
+    {
+      "fe_index": 6,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.9994
+    },
+    {
+      "fe_index": 7,
+      "status": "granted",
+      "matched_user": "jai",
+      "similarity": 0.9897
+    },
+    {
+      "fe_index": 8,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9875
+    },
+    {
+      "fe_index": 9,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.9947
+    },
+    {
+      "fe_index": 10,
+      "status": "granted",
+      "matched_user": "suraj",
+      "similarity": 0.999
+    },
+    {
+      "fe_index": 11,
+      "status": "granted",
+      "matched_user": "sai",
+      "similarity": 0.9979
+    },
+    {
+      "fe_index": 12,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9754
+    },
+    {
+      "fe_index": 13,
+      "status": "granted",
+      "matched_user": "suraj",
+      "similarity": 0.9992
+    },
+    {
+      "fe_index": 14,
+      "status": "granted",
+      "matched_user": "jai",
+      "similarity": 0.9948
+    },
+    {
+      "fe_index": 15,
+      "status": "granted",
+      "matched_user": "jai",
+      "similarity": 0.9888
+    },
+    {
+      "fe_index": 16,
+      "status": "granted",
+      "matched_user": "Manoj",
+      "similarity": 0.9874
+    },
+    {
+      "fe_index": 17,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9478
+    },
+    {
+      "fe_index": 18,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.976
+    },
+    {
+      "fe_index": 19,
+      "status": "granted",
+      "matched_user": "sai",
+      "similarity": 0.9979
+    },
+    {
+      "fe_index": 20,
+      "status": "granted",
+      "matched_user": "suraj",
+      "similarity": 0.9845
+    },
+    {
+      "fe_index": 21,
+      "status": "granted",
+      "matched_user": "sai",
+      "similarity": 0.9926
+    },
+    {
+      "fe_index": 22,
+      "status": "granted",
+      "matched_user": "jai",
+      "similarity": 0.9983
+    },
+    {
+      "fe_index": 23,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9914
+    },
+    {
+      "fe_index": 24,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9839
+    },
+    {
+      "fe_index": 25,
+      "status": "granted",
+      "matched_user": "Rama",
+      "similarity": 0.9968
+    },
+    {
+      "fe_index": 26,
+      "status": "granted",
+      "matched_user": "jai",
+      "similarity": 0.9573
+    },
+    {
+      "fe_index": 27,
+      "status": "granted",
+      "matched_user": "sam",
+      "similarity": 0.9919
+    },
+    {
+      "fe_index": 28,
+      "status": "granted",
+      "matched_user": "suraj",
+      "similarity": 0.9964
+    },
+    {
+      "fe_index": 29,
+      "status": "granted",
+      "matched_user": "sai",
+      "similarity": 0.9991
+    }
+  ],
+  "final_decision": "granted"
+}
